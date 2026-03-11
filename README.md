@@ -57,7 +57,22 @@ Each user type gets a **custom dashboard** and workflow designed specifically fo
 
 ---
 
-## 
+##  Screenshots
+
+###  Home Page
+![Home Page](images/home.png)
+
+###  Services Page
+![Services](images/services.png)
+
+###  Dashboard
+![Dashboard](images/dashboard.png)
+
+###  Booking Page
+![Booking](images/booking.png)
+
+###  My Bookings
+![My Bookings](images/my_booking.png)
 
 
 ---
